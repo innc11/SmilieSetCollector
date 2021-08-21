@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 /exports
 /all
+/export
+/history
